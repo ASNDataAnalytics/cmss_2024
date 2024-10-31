@@ -1,15 +1,15 @@
 # *You Can’t Manage What You Don’t Measure: <br>Using Data to Inform Medical Society Workforce Initiatives*
 Presented at the CMSS 2024 Annual meeting in Chicago, IL, on November 21, 2024. 
 
-# Slides
+## Slides
 
-# Workforce Data 
+## Workforce Data 
 
-# Health Workforce Research Resources
+## Health Workforce Research Resources
 
-# Retrieval-Augmented Generation
+## Retrieval-Augmented Generation
 
-# Contact Information
+## Contact Information
 
 
 [1]: https://www.linkedin.com/in/kurtis-pivert
