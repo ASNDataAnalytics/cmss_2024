@@ -18,9 +18,11 @@ Presented at the CMSS 2024 Annual meeting in Chicago, IL, on November 21, 2024.
 [4]: https://data.asn-online.org/
 
 ---
-[![linkedin]()][1]
-[![bluesky]()][2]
-[![mastodon]()][3]
-[![asndata]()][4]
-
+[![linkedin_resize](https://github.com/user-attachments/assets/915bd9d9-6fa1-41e4-85b0-917726e19862)][1]<br>
+[![bluesky_resized](https://github.com/user-attachments/assets/a20fcfa5-13ad-4a05-a239-d8d73458d8ee)][2]<br>
+[![mastodon_resized](https://github.com/user-attachments/assets/5d3befab-0a34-431f-a6d7-f8deb7bfaa7b)][3]<br>
+[![asn_data](https://github.com/user-attachments/assets/da60d1e6-c632-491e-8e0e-06ef984b4585)][4]<br>
 ---
+
+
+
